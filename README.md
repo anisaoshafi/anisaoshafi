@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### It's Anisa 
 
-I like Python :snake:
+I like:
+
+ 🧘‍♀️ 🗺  🥖 🍕 ☄️ ☔️ 🌊 
+
+Also Python :snake:
