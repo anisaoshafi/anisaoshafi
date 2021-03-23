@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 #### It's Anisa 
 
+https://img.shields.io/badge/-anisaoshafi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anisaoshafi
+
 I like:
 
  🧘‍♀️ 🗺  🥖 🍕 ☄️ ☔️ 🌊 
