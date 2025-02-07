@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 #### This is Anisa 
 
-<a href="https://www.linkedin.com/in/anisaoshafi/" target="_blank"><img src="https://img.shields.io/badge/-anisaoshafi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anisaoshafi" ></a> <a href="https://www.twitter.com/anisaoshafi" target="_blank"><img src="https://img.shields.io/badge/-anisaoshafi-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/anisaoshafi" ></a>
+<a href="https://www.linkedin.com/in/anisaoshafi/" target="_blank"><img src="https://img.shields.io/badge/-anisaoshafi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anisaoshafi" ></a>
 
 
  🧘‍♀️ 🗺  🥖 🍕 ☄️ ☔️ 🌊 
 
-Alsooo, I like Python :snake:
+I like Python :snake:
