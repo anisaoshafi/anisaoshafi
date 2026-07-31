@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/anisaoshafi/" target="_blank"><img src="https://img.shields.io/badge/-anisaoshafi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anisaoshafi" ></a>
 
 
- 🧘‍♀️ 🗺  🥖 🍕 ☄️ ☔️ 🌊 
+ 🧘‍♀️🗺🥖🍕☕☄️☔️🌊
 
 I like Python :snake:
